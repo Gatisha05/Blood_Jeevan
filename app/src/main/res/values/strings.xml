@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Rakta Life</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Be A Donor</string>
+    <string name="button2">Find A Donor</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="login">Login</string>
+    <string name="email_or_phone">Email or Phone</string>
+    <string name="Password">Password</string>
+    <string name="new_user">New User?</string>
+    <string name="signup_here">Sign Up Here</string>
+    <string name="signup">Sign Up</string>
+    <string name="Fullname">Full Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="Email">Email_Id(Optional)</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="BloodGroup">BloodGroup:</string>
+    <string name="LastDonated">Last Donated:</string>
+    <string name="district">District:</string>
+    <string name="state">State:</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_donor_registration">DonorRegistration</string>
+   <string-array name="bloodgroup">
+       <item>AB+</item>
+       <item>AB-</item>
+       <item>A+</item>
+       <item>A-</item>
+       <item>B+</item>
+       <item>B-</item>
+       <item>O+</item>
+       <item>O-</item>
+    </string-array>
+
+    <string-array name="lastdonated">
+        <item>Never</item>
+        <item>1 Month Ago</item>
+        <item>2 Months Ago</item>
+        <item>3 Months Ago</item>
+        <item>4 Months Ago</item>
+        <item>5 Months Ago</item>
+        <item>6 Months Ago</item>
+        <item>7 Months Ago</item>
+        <item>8 Months Ago</item>
+        <item>9 Months Ago</item>
+        <item>10 Months Ago</item>
+        <item>11 Months Ago</item>
+        <item>12 Months Ago</item>
+        <item>More Than 12 Months Ago</item>
+    </string-array>
+
+
+</resources>
